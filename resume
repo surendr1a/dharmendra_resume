@@ -149,7 +149,8 @@
 \section{\textbf{Technical Skills and Interests}}
  \begin{itemize}[leftmargin=0.05in, label={}]
     \small{\item{
-     \textbf{Techstack}{: Git, GitHub, Jenkins, Docker, Kubernetes, Terraform, Prometheus, Nginx, Maven } \\
+     \textbf{Techstack}{: Git, GitHub, Jenkins, Docker, Kubernetes, Terraform, Prometheus, Grafana , Nginx, Maven } \\
+     \textbf{Database}{: Mysql } \\
    \textbf{Cloud Platforms:} AWS, Azure, GCP \\
     \textbf{DevOps Tools:} Jenkins, Terraform, SonarQube, Nexus, Trivy, Jira \\  
     \textbf{Soft Skills:} Self-learning, Leadership, Team Collaboration, Adaptability, Time Management. \\
